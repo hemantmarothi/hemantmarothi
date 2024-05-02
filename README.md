@@ -1,20 +1,20 @@
 <h1 align="left">Hi 👋, I'm Hemant</h1>
 <h3 align="left">A passionate AI & ML Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/amnmakhija" target="blank"><img src="https://img.shields.io/twitter/follow/amnmakhija?logo=twitter&style=for-the-badge" alt="amnmakhija" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hemant_mar2027" target="blank"><img src="https://img.shields.io/twitter/follow/hemant_mar2027?logo=twitter&style=for-the-badge" alt="hemant_mar2027" /></a> </p>
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [amanmakhija.me](https://amanmakhija.me)
+- 👨‍💻 All of my projects are available on my github.
 
 - 📫 How to reach me **hemantmarothi9512357890@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amnmakhija" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="amnmakhija" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/aman-makhija" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="aman-makhija" height="40" width="40" /></a>
-<a href="https://instagram.com/amn.makhija" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="amn.makhija" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/amanmakhija" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="amanmakhija" height="40" width="40" /></a>
+<a href="https://twitter.com/hemant_mar2027" target="_blank"><img align="center" src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" alt="hemant_mar2027" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/hemantmarothi" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" alt="hemantmarothi" height="40" width="40" /></a>
+<a href="https://interviewbit.com/profile/hemantmarothi9512357890_2dfb89373ea4" target="_blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="hemantmarothi9512357890_2dfb89373ea4" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/hemantmarothi9512357890" target="_blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3628885-3030025.png" alt="amanmakhija" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
