@@ -16,9 +16,7 @@
 <a href="https://instagram.com/hemant_jain2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemant_jain2003" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hemantmarothi951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hemantmarothi951" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hemantmarothi9512357890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemantmarothi9512357890" height="30" width="40" /></a>
-<a href="https://www.interviewbit.com/hemantmarothi9512357890_2dfb89373ea4" target="_blank"><img src="https://www.interviewbit.com/" alt="InterviewBit" height="30" width="40" /></a>
-
-
+<a href="https://www.interviewbit.com/profile/hemantmarothi9512357890_2dfb89373ea4" target="_blank"><img src= "https://assets.interviewbit.com/packs/images/logo.87a398.svg" alt="InterviewBit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
